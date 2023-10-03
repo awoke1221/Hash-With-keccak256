@@ -1,0 +1,16 @@
+{
+  "name": "hash-with-keccak256",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "ethereum-cryptography": "^2.1.2"
+  }
+}
